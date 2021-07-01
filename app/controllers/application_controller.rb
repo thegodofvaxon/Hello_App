@@ -52,6 +52,8 @@ class ApplicationController < ActionController::Base
 49:Shouldn’t the “roof” of your mouth actually be called the ceiling?
 50:Stop looking for the perfect match…use a lighter.
 51:I told my doctor I heard buzzing, but he said it’s just a bug going around.
+
+yes itai i did make this and also so you chadley and milbersoot
 "
   end
 end
